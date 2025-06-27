@@ -2,7 +2,8 @@
   "mappings": [
     "/content/aem-xwalk-ramya/:/",
     "/content/aem-xwalk-ramya/configuration:/.helix/config.json",
-    "/content/aem-xwalk-ramya/metadata:/metadata.json"
+    "/content/aem-xwalk-ramya/metadata:/metadata.json",
+    "/content/aem-xwalk-ramya/redirects:/redirects.json"
   ],
   "includes": [
     "/content/aem-xwalk-ramya/"
